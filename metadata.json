@@ -1,0 +1,6 @@
+{
+  "name": "Sherlock Visual Intelligence",
+  "description": "An elite behavioral intelligence tool that reads posture, micro-expressions, attire, and environmental markers to synthesize high-stakes sales and negotiation dossiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
